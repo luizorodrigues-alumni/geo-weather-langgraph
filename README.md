@@ -1,6 +1,6 @@
 # Geo Weather LangGraph
 
-A small Python project that demonstrates a graph-based conversational assistant for geographic and weather queries. It combines a state-driven graph (via `langgraph`) with LLM calls and simple external tools for geocoding and weather lookup.
+A small Python project that demonstrates a graph-based conversational assistant for geographic and weather queries. It combines a state-driven graph (via `langgraph`) with LLM calls and external tools for geocoding and weather lookup.
 
 **Quick summary**
 - **Purpose:** Provide a conversational CLI that can call external tools to fetch location and weather information.
