@@ -38,4 +38,3 @@ The program starts an interactive prompt. Type a location or weather-related que
 - Add or update tools in `tools.py` to extend capabilities (remember to update `TOOLS` and `TOOLS_BY_NAME`).
 - Modify the routing or nodes in `graph.py` to change the conversation flow.
 
-If you want, I can also add a `requirements.txt` or a short CONTRIBUTING note.
